@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NppPlugin", "NppPlugin\NppPlugin.csproj", "{EB8FC3A3-93E8-457B-B281-FAFA5119611A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9E840526-25B3-4D34-8ED0-9F977267BA16}"
+	ProjectSection(SolutionItems) = preProject
+		NppPlugin Installer.iss = NppPlugin Installer.iss
+		SharedAssemblyInfo.cs = SharedAssemblyInfo.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Remote Debug|Any CPU = Remote Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8FC3A3-93E8-457B-B281-FAFA5119611A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8FC3A3-93E8-457B-B281-FAFA5119611A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8FC3A3-93E8-457B-B281-FAFA5119611A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8FC3A3-93E8-457B-B281-FAFA5119611A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8FC3A3-93E8-457B-B281-FAFA5119611A}.Remote Debug|Any CPU.ActiveCfg = Remote Debug|Any CPU
+		{EB8FC3A3-93E8-457B-B281-FAFA5119611A}.Remote Debug|Any CPU.Build.0 = Remote Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
